@@ -19,8 +19,8 @@ My repo not contained all the source code, I just edited the package.json file a
 ```
 # docker run -d --name squoosh \
     --restart unless-stopped \
-	-p 7701:8080 \
-	dko0/squoosh:1.12.0
+    -p 7701:8080 \
+    dko0/squoosh:1.12.0
 ```
 
 then, visit http://YOUR_IP:7701 and enjoy it!
