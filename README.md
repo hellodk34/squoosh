@@ -50,6 +50,11 @@ and then, just type `docker-compose -f ./squoosh-compose.yml up -d` and enter th
 
 ![image](./screenshots/1.png)
 
+### squoosh-cli usage
+
+read this [article](https://hellodk.cn/post/1141) .
+
 ## Thanks
 
-https://github.com/GoogleChromeLabs/squoosh , you did really good job.
+- https://github.com/GoogleChromeLabs/squoosh
+- https://www.npmjs.com/package/@squoosh/cli
